@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>www.dv16888</groupId>
-    <artifactId>Aes</artifactId>
+    <artifactId>aes-encrypt-spring-boot-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Aes</name>
     <description>Demo project for Spring Boot</description>
